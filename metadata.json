@@ -1,0 +1,7 @@
+{
+  "name": "ReservaPro - Gestión de Espacios Comunes",
+  "description": "Una aplicación elegante y moderna para la reserva de espacios comunes en edificios residenciales, permitiendo a los residentes reservar SUM, parrillas y más, mientras los administradores gestionan el consorcio.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
